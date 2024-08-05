@@ -104,7 +104,7 @@ git stage .gitignore
 # create the cheat sheets
 make
 
-# done, review the cheat sheets and make a git commit whet you're ready:
+# done, review the cheat sheets and make a git commit when you're ready:
 # - xdg-open topic-cheat-sheet.html
 # - xdg-open topic-cheat-sheet.pdf
 # - git commit -m 'initial commit'
